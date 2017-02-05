@@ -16,13 +16,13 @@ make-smaller-titles: true
           <span class="caret"></span>
         </button>
         <ul class="dropdown-menu">
-          <li><a href="{{ site.baseurl }}/posts-by-categories/">Categories</a></li>
+          <li><a href="{{ site.baseurl }}/projects-by-categories/">Categories</a></li>
         </ul>
       </div>
 
     </small></h2>
 
-      {% for project in site.project %}
+      {% for project in site.projects %}
       {% capture this_year %}{{ project.date | date: "%Y" }}{% endcapture %}
       {% capture next_year %}{{ project.previous.date | date: "%Y" }}{% endcapture %}
 
