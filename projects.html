@@ -22,9 +22,9 @@ make-smaller-titles: true
 
     </small></h2>
 
-      {% for project in site.projects %}
-      {% capture this_year %}{{ project.date | date: "%Y" }}{% endcapture %}
-      {% capture next_year %}{{ project.previous.date | date: "%Y" }}{% endcapture %}
+      {% for post in site.projects %}
+      {% capture this_year %}{{ post.date | date: "%Y" }}{% endcapture %}
+      {% capture next_year %}{{ post.previous.date | date: "%Y" }}{% endcapture %}
 
       {% if forloop.first %}
       <div class="col-md-12 content-panel articles">
