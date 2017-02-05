@@ -1,0 +1,55 @@
+---
+layout: default
+make-smaller-titles: true
+---
+
+
+<div class="container-fluid index">
+  <div class="row index all-projects">
+
+    <h1 class="header author-header">{{ site.author_name }}</h1>
+    <h2 class="header" itemprop="headline">All projects</h2>
+    <h2 class="header categories" itemprop="headline"><small>grouped by
+
+      <div class="dropdown btn-group">
+        <button class="btn btn-categories dropdown-toggle btn-xs" type="button" data-toggle="dropdown">Years
+          <span class="caret"></span>
+        </button>
+        <ul class="dropdown-menu">
+          <li><a href="{{ site.baseurl }}/posts-by-categories/">Categories</a></li>
+        </ul>
+      </div>
+
+    </small></h2>
+
+      {% for project in site.project %}
+      {% capture this_year %}{{ project.date | date: "%Y" }}{% endcapture %}
+      {% capture next_year %}{{ project.previous.date | date: "%Y" }}{% endcapture %}
+
+      {% if forloop.first %}
+      <div class="col-md-12 content-panel articles">
+        <h2 id="{{ this_year }}-ref">{{ this_year }}</h2>
+        <ul>
+      {% endif %}
+
+          <li>
+            <a href="{{ project.url | prepend: site.baseurl }}">{{ project.title }}</a>
+            <small class="hidden-xs">{{ project.date | date: "%B %-d, %Y" }}</small>
+          </li>
+      {% if forloop.last %}
+        </ul>
+      </div>
+      {% else %}
+        {% if this_year != next_year %}
+          </ul>
+        </div>
+        <div class="col-md-12 content-panel articles">
+          <h2 id="{{ next_year }}-ref">{{next_year}}</h2>
+          <ul>
+        {% endif %}
+    {% endif %}
+
+    {% endfor %}
+    </div>
+
+  </div>
