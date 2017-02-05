@@ -33,8 +33,8 @@ make-smaller-titles: true
       {% endif %}
 
           <li>
-            <a href="{{ project.url | prepend: site.baseurl }}">{{ project.title }}</a>
-            <small class="hidden-xs">{{ project.date | date: "%B %-d, %Y" }}</small>
+            <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+            <small class="hidden-xs">{{ post.date | date: "%B %-d, %Y" }}</small>
           </li>
       {% if forloop.last %}
         </ul>
