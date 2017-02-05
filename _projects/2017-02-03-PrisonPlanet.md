@@ -1,10 +1,11 @@
 ---
-layout:     post
+layout:     project
 title:     Prison Planet
 summary:    Fuck Alex Jones!
 categories: software
 thumbnail: city
 tags:
+  -jail
 ---
 
 -Prisoner Release Fund and Tech Utilization Program
