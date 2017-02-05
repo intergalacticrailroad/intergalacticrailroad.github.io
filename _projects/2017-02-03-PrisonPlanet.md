@@ -1,8 +1,8 @@
 ---
 layout:     project
-title:     Prison Planet
+title:      Prison Planet
 summary:    Fuck Alex Jones!
-categories: software
+categories: s
 thumbnail: city
 tags:
   -jail

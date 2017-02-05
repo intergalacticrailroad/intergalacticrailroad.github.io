@@ -1,10 +1,11 @@
 ---
 layout:     project
 title:      The Engineering Egg
-summary: The Heart of The Space Program
-categories: software
+summary:    The Heart of The Space Program
+categories: s
 thumbnail: city
 tags:
+ - two
 ---
 
 
