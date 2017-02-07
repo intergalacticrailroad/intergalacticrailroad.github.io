@@ -8,45 +8,57 @@ tags:
  - squares
 ---
 
-scihub.ac
-	- NOT scihub.org
-	- research papers
-	- Aaron Swartz
-	- Kazakstan
-	- No kidding, it's cool.
-	- "it can also be accessed by directly entering the IP address (80.82.78.170)"
-	- "or through a .onion Tor Hidden Service (scihub22266oqcxt.onion)"
-	- Do you speak russian?
 
-fourthievesvinegar
-	- DIY medicine
-	- blueprints for DIY epipens, materials cost $30
-	- working on
 
-citylab
-	-mapping
-	-city dynamics
-	-several different projects call themselvs citylab
-	-the Atlantic is muscling on the one that used to be cool
-				-or maybe owned them the whole time
-	-law enforcement, mapping, and technology
+
+I've been working on the space rails, all afternoon, making a list of interesting resources, archives, and data sets. Please add to our collection! Remember folks, heat dissipates, and chains don't break themselves. Strike while the iron is hot, so we can get something rolling up here. Pass a note under the table, throw us an airplane. Send us an email. Tell yer ma i said hi.
+
+
+
+OPEN COURSE WARE
+
+Learn shit, on your own damn time! These links will take you to course material that has been made available for public use by the muckity mucks at MIT, and other institutions. The good parts, in my opinion, are all pdfs and video lectures. Astonish your friends with your newfound knowledge! Rub cyber-elbows with Yale! Download and study today! 
+
+
+Open Education Consortium -Because nothing says POWER like the word "Consortium!"
+
+http://www.oeconsortium.org/courses/
+
+
+I've got feelings for the MIT set of courses in particular. 
+
+https://ocw.mit.edu/index.htm
+
+
+
+Publiclab.org is another big chunk of things you should all be shoving into your eyes. The project describes itself as a "DIY environmental science community." They are very edgy, and probably funded by George Soros. How could they not be? Sharing? Free blueprints? For the community? WHWHWHWWWWWWAAAA???? 
+
+They have a focus on DIY aerial photography, and mapping. I saw instructions on how to make your own water, air, and soil testing kits on there, as well as detectors for mapping the dispersal of oil industry crud. Slick shit.
 
 publiclab.org
-	- environmental data creation
-	- aerial photography
-	- mapping
 
-ensorcel.org
-	- the wired
-	- superman is dead
-	- cybernihilism
 
-intergalacticrailroad.github.io
-	- social modeling
-	- cybernetics
-	- cognitive security
-	- the CIA invented crack
-	- hoping to host critical review of DIY science projects: fact checking and networking in real life
-	- not a real website.
-	- a real railroad
+
+
+https://fourthievesvinegar.org/
+
+In response to pharmaceutical company assclowns jacking up the price of the Epipen, these guys published a paper on how to make your own epipen for $30 using generic products. FTV got brownie points. Also, make all your own medicine! Welcome to the age of biohacking. Try not to break anything you can't replace.
+
+
+
+
+
+scihub.ac
 	
+SciHub was breaking down the walls of scientific journals before it was cool, and earned a giant lawsuit instead of a thank you. But for those of you who speak russian, scihub.ac is the O.G.
+
+
+
+
+
+
+Intergalactic RailRoad
+	
+This is not a real website.
+
+A real railroad, though.
