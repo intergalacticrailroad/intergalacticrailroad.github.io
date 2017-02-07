@@ -5,7 +5,7 @@ make-smaller-titles: true
 
 
 <div class="container-fluid index">
-  <div class="row index all-posts">
+  <div class="row index all-projects">
 
     <h1 class="header author-header">{{ site.author_name }}</h1>
     <h2 class="header" itemprop="headline">All projects</h2>
@@ -16,7 +16,7 @@ make-smaller-titles: true
           <span class="caret"></span>
         </button>
         <ul class="dropdown-menu">
-          <li><a href="{{ site.baseurl }}/posts/">Years</a></li>
+          <li><a href="{{ site.baseurl }}/projects/">Years</a></li>
         </ul>
       </div>
 
@@ -25,11 +25,11 @@ make-smaller-titles: true
       <div class="col-md-12 content-panel articles">
         <h2 id="{{ category | first }}-ref">{{ category | first }}</h2>
         <ul>
-          {% for posts in category %}
-            {% for post in posts %}
+          {% for projects in category %}
+            {% for project in projects %}
               <li>
-                <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-                <small class="hidden-xs">{{ post.date | date: "%B %-d, %Y" }}</small>
+                <a href="{{ project.url | prepend: site.baseurl }}">{{ project.title }}</a>
+                <small class="hidden-xs">{{ project.date | date: "%B %-d, %Y" }}</small>
               </li>
             {% endfor %}
           {% endfor %}
