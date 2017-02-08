@@ -11,7 +11,7 @@ tags:
 
 
 
-I've been working on the space rails, all afternoon, making a list of interesting resources, archives, and data sets. Please add to our collection! Remember folks, heat dissipates, and chains don't break themselves. Strike while the iron is hot, so we can get something rolling up here. Pass a note under the table, throw us an airplane. Send us an email. Tell yer ma i said hi.
+I've been working on the space rails, all afternoon, making a list of interesting resources, archives, and data sets. When the list matures, we'll divvy it up into sections, and make little torrent files, each replete with resources, data sets, and links to other groups. Please add to our collection! Remember folks, heat dissipates, and chains don't break themselves. Strike while the iron is hot, so we can get something rolling up here. Pass a note under the table, throw us an airplane. Send us an email. Tell yer ma i said hi.
 
 First of all, learn to code, motherfucker.
 
@@ -51,11 +51,18 @@ In response to pharmaceutical company assclowns jacking up the price of the Epip
 
 
 
-scihub.ac
+SciHub
 	
-SciHub was breaking down the walls of scientific journals before it was cool, and earned a giant lawsuit instead of a thank you. But for those of you who speak russian, scihub.ac is the O.G.
+SciHub was breaking down the walls of scientific journals before it was cool, and earned a giant lawsuit instead of a thank you. But for those of you who speak russian, scihub.ac is the O.G. source for recent research papers that are otherwise hidden behind paywalls.
+
+scihub.ac
 
 
+The Internet Archive
+
+If the Internet Archive were to cease to exist, humanity would be plunged into a dark age of fake news and ignorant bullshit. There's alotta good stuff right there. Alotta good stuff.
+
+archive.org
 
 
 
