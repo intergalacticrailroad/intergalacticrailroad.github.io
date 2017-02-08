@@ -13,6 +13,9 @@ tags:
 
 I've been working on the space rails, all afternoon, making a list of interesting resources, archives, and data sets. Please add to our collection! Remember folks, heat dissipates, and chains don't break themselves. Strike while the iron is hot, so we can get something rolling up here. Pass a note under the table, throw us an airplane. Send us an email. Tell yer ma i said hi.
 
+First of all, learn to code, motherfucker.
+
+http://programming-motherfucker.com/
 
 
 OPEN COURSE WARE
